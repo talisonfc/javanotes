@@ -1,0 +1,16 @@
+{
+  "name": "javanotes",
+  "version": "1.0.0",
+  "description": "Site de notas sobre java",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "author": "Talison F. Costa",
+  "license": "ISC",
+  "dependencies": {
+    "vuepress": "^1.7.1"
+  }
+}
