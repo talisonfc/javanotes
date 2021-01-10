@@ -5,5 +5,5 @@ Repositorio do site Java Notes
 - Domain: javanotes.surge.sh
 
 ```
-urge docs/.vuepress/dist
+surge docs/.vuepress/dist
 ```
